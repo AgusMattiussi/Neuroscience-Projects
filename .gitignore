@@ -1,0 +1,4 @@
+*/notebook*
+*.png
+
+*/__pycache__/
